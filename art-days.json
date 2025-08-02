@@ -17,12 +17,14 @@
     "Date": "Feb 22",
     "Name": "Cat Day",
     "Hashtag": "#猫の日",
-    "Explanation": "2 22 can be read as ninini | kinda sounds like nya nya nya"
+    "Explanation": "2 22 can be read as ninini | kinda sounds like nya nya nya",
+    "ExampleLink": "https://bsky.app/profile/zoiteki.bsky.social/post/3lipzcejqu22k",
+    "ExamplePicture": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:arc2kmirqj5fje4xaeytoqxj/bafkreied2man3fhlnqjadqyaowzex3ybzc33xpffrmxqvnm5z5gojm47zm@jpeg"
   },
   {
     "Date": "Mar 3",
     "Name": "Bunny Day",
-    "Hashtag": "うさぎの日",
+    "Hashtag": "#うさぎの日",
     "Explanation": "3 3 can be read as mimi = ear, bunnies have long ears"
   },
   {
@@ -42,16 +44,10 @@
     "ExamplePicture": "https://pbs.twimg.com/media/GNPM9Y0XYAAWvuU?format=jpg&name=4096x4096"
   },
   {
-    "Date": "Jun 1",
-    "Name": "World Milk Day",
-    "Hashtag": "",
-    "Explanation": "girl idk"
-  },
-  {
     "Date": "Jun 25",
     "Name": "Yuri Day",
     "Hashtag": "#百合の日",
-    "Explanation": "zoiGawk"
+    "Explanation": "Please 🙏"
   },
   {
     "Date": "Jul 5",
