@@ -3,13 +3,13 @@
     "Date": "Jan 11",
     "Name": "Dog Day",
     "Hashtag": "#犬の日",
-    "Explanation": "1 can be read as wan, which is the sound a dog makes, wanwanwan"
+    "Explanation": "1(wan)-1(wan)-1(wan): The sound a dog makes: wan-wan-wan"
   },
   {
     "Date": "Feb 2-4",
     "Name": "Setsubun",
     "Hashtag": "#節分",
-    "Explanation": "Setsubun, JP holiday — Oni related art, Bean throwing, Oni Bikini, Oni Mask",
+    "Explanation": "Setsubun, A Japanese holiday — Oni related art, Bean throwing, Oni Bikini, Oni Mask",
     "ExampleLink": "https://twitter.com/zoiteki/status/1886467282731217071",
     "ExamplePicture": "https://pbs.twimg.com/media/Gi4T_iuWoAAS2CO?format=jpg&name=medium"
   },
@@ -17,13 +17,13 @@
     "Date": "Feb 8",
     "Name": "Knee High Socks Day",
     "Hashtag": "#ニーハイの日",
-    "Explanation": "2 8 can be read as ni-ha (i) which sounds like knee high"
+    "Explanation": "2(ni) 8(ha): ni-ha(i) which sounds like knee high"
   },
   {
     "Date": "Feb 22",
     "Name": "Cat Day",
     "Hashtag": "#猫の日",
-    "Explanation": "2 22 can be read as ninini | kinda sounds like nya nya nya",
+    "Explanation": "2(ni) 2(ni) 2(ni): にゃん: nyan the sound a cat makes. に(ni)ゃ(ya)ん(n). ににに => ninini is my best guess",
     "ExampleLink": "https://bsky.app/profile/zoiteki.bsky.social/post/3lipzcejqu22k",
     "ExamplePicture": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:arc2kmirqj5fje4xaeytoqxj/bafkreied2man3fhlnqjadqyaowzex3ybzc33xpffrmxqvnm5z5gojm47zm@jpeg"
   },
@@ -31,7 +31,7 @@
     "Date": "Mar 3",
     "Name": "Bunny Day",
     "Hashtag": "#うさぎの日",
-    "Explanation": "3 3 can be read as mimi = ear, bunnies have long ears"
+    "Explanation": "3(mi) 3(mi):  mimi = ear, bunnies have long ears"
   },
   {
     "Date": "Apr 29-May 6",
@@ -45,7 +45,7 @@
     "Date": "May 10",
     "Name": "Maid Day",
     "Hashtag": "#メイドの日",
-    "Explanation": "10 can be read as dō, so it's May-dō (maid)",
+    "Explanation": "May 10(dō): May-dō (maid)",
     "ExampleLink": "https://twitter.com/zoiteki/status/1789000761197621524",
     "ExamplePicture": "https://pbs.twimg.com/media/GNPM9Y0XYAAWvuU?format=jpg&name=4096x4096"
   },
@@ -53,7 +53,7 @@
     "Date": "Jun 25",
     "Name": "Yuri Day",
     "Hashtag": "#百合の日",
-    "Explanation": "Please 🙏"
+    "Explanation": "(I dont know, but Please 🙏)"
   },
   {
     "Date": "Jul 5",
@@ -65,7 +65,7 @@
     "Date": "Jun 29",
     "Name": "School Swimsuit Day",
     "Hashtag": "#スク水の日",
-    "Explanation": "2 9 can be read tsu-kyu kinda sounds like suku (sukumizu = school swimsuit), this can apply to any 29th of the month but seems to be most popular in the summer"
+    "Explanation": "2(tsu) 9(kyu): tsu-kyu sounds like suku (sukumizu = school swimsuit), this can apply to any 29th of the month but seems to be most popular in the summer"
   },
   {
     "Date": "Jul 9",
@@ -77,13 +77,13 @@
     "Date": "Jul 26",
     "Name": "Bath Day",
     "Hashtag": "#夏風呂の日",
-    "Explanation": "2 6 can be read as fu-ro (風呂), meaning bath. Could be any month but they seem to only post in July"
+    "Explanation": "2(fu) 6(ro): fu-ro (風呂), meaning bath. Could be any month but seems to only be popular in July"
   },
   {
     "Date": "Aug 1",
     "Name": "Boobs Day",
     "Hashtag": "#おっぱいの日",
-    "Explanation": "08 can be read as o-pa, 1 can be read as i, so o-pa-i = oppai = boobs",
+    "Explanation": "0(o) 8(pa) 1(i): o-pa-i = oppai = boobs",
     "ExampleLink": "https://twitter.com/foung_shui/status/1951243740989009983",
     "ExamplePicture": "https://pbs.twimg.com/media/GxQ1qP3aIAIzyHl?format=jpg&name=4096x4096"
   },
@@ -91,7 +91,7 @@
     "Date": "Aug 2",
     "Name": "Bunny Day",
     "Hashtag": "#バニーの日",
-    "Explanation": "8 2 can be read as ba-ni, bani sounds like bunny",
+    "Explanation": "8(ba) 2(ni) => ba-ni => bunny",
     "ExampleLink": "https://twitter.com/zoiteki/status/1686868580019646464",
     "ExamplePicture": "https://pbs.twimg.com/media/F2j1MKoWwAAQe-w?format=jpg&name=4096x4096"
   },
@@ -115,13 +115,13 @@
     "Date": "Nov 2",
     "Name": "Nice Oni Day",
     "Hashtag": "#いい鬼の日",
-    "Explanation": "11 02 can be read as ii-o-ni, ii = nice, oni"
+    "Explanation": "1(i) 1(i) 0(o) 2(ni) => ii-o-ni, ii-o-ni = nice oni"
   },
   {
     "Date": "Nov 2",
     "Name": "Tights Day",
     "Hashtag": "#タイツの日 or #いいタイツの日",
-    "Explanation": "11 2 can be read as ta-i-tsu (10 -> ta, 1 -> i, 10+1=11), sounds like tights. some people still do #いいタイツの日"
+    "Explanation": "11 (10+1) (10(ta) 1(i) 2(tsu)). taitsu sounds like tights"
   },
   {
     "Date": "Nov 3",
@@ -133,15 +133,21 @@
     "Date": "Nov 4",
     "Name": "Nice Butt Day",
     "Hashtag": "#いいおしりの日 or #いいお尻の日",
-    "Explanation": "11 04 -> ii-o-shi (ru) | oshiru = butt",
+    "Explanation": "1(i) 1(i) 0(o) 4(shi) -> ii-o-shi(ru) | oshiru = butt",
     "ExampleLink": "https://twitter.com/zoiteki/status/1853486965548880327",
     "ExamplePicture": "https://pbs.twimg.com/media/GbjokfRWoAAcm-M?format=jpg&name=large"
+  },
+  {
+    "Date": "Nov 6",
+    "Name": "Nice Low (Angle) Day",
+    "Hashtag": "#いいローアングルの日",
+    "Explanation": "1(i) 1(i) 6(ro) -> ii-ro | ro sounds like low. taking liberties and just adding angle. Any pictures taken or drawn from a low angle, looking up at the subject"
   },
   {
     "Date": "Nov 7",
     "Name": "Nice Tummy Day",
     "Hashtag": "#いいおなかの日",
-    "Explanation": "11 07 -> ii-o-na (ka)| onaka = tummy",
+    "Explanation": "1(i) 1(i) 0(o) 7(na) -> ii-o-na (ka)| onaka = tummy",
     "ExampleLink": "https://bsky.app/profile/zoiteki.bsky.social/post/3laf6yr5dpe2h",
     "ExamplePicture": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:arc2kmirqj5fje4xaeytoqxj/bafkreifzm726cpmvaewziadyqn55ijuacoemwwe7qxbumlvetgitld3nxe@jpeg"
   },
@@ -149,7 +155,7 @@
     "Date": "Nov 8",
     "Name": "Nice Oppai/Boobs Day",
     "Hashtag": "#いいおっぱいの日",
-    "Explanation": "11 08 -> ii-o-pa (i) | oppai = boobs",
+    "Explanation": "1(i) 1(i) 0(o) 8(pa) -> ii-o-pa (i) | oppai = boobs",
     "ExampleLink": "https://twitter.com/zoiteki/status/1854923340403654788",
     "ExamplePicture": "https://pbs.twimg.com/media/Gb4BQ2MXoAAbvcn?format=jpg&name=medium"
   },
@@ -157,33 +163,39 @@
     "Date": "Nov 9",
     "Name": "Nice Armpit Day",
     "Hashtag": "#いい脇の日 or #いい腋の日",
-    "Explanation": "脇 is kanji for armpit it has the kanji for 9 (九) three times (is actually kanji for effort x3 but it looks like a nine)",
+    "Explanation": "Not sure. 脇 is kanji for armpit it has the kanji for 9 (九) three times (is actually kanji for effort x3 but it looks like a nine)",
     "ExampleLink": "https://twitter.com/foung_shui/status/1855136222513185035",
     "ExamplePicture": "https://pbs.twimg.com/media/Gb7Ee2ObwAMj_4j?format=jpg&name=medium"
+  },
+  {
+    "Date": "Nov 9",
+    "Name": "Nice Mouth Day",
+    "Hashtag": "#いいおくちの日",
+    "Explanation": "1(i) 1(i) 0(o) 9(ku) -> ii-o-ku (chi) | okuchi = mouth"
   },
   {
     "Date": "Nov 11",
     "Name": "Pocky Day",
     "Hashtag": "#ポッキーの日",
-    "Explanation": "11 11 | it looks like a bunch of pocky sticks"
+    "Explanation": "11-11 | it looks like a bunch of pocky sticks"
   },
   {
     "Date": "Nov 12",
     "Name": "Nice Hip Day",
     "Hashtag": "#いいヒップの日",
-    "Explanation": "11 1 2 can be read as ii-hi-pu hipu -> hip"
+    "Explanation": "1(i) 1(i) 1(hi) 2(pu): ii-hi-pu | hipu -> hip"
   },
   {
     "Date": "Nov 17",
     "Name": "Nice Underwear(Innerwear) Day",
     "Hashtag": "#いいインナーの日",
-    "Explanation": "11 1 7 ii-i-na (a) | innaa -> inner (inner == underwear)"
+    "Explanation": "1(i) 1(i) 1(i) 7(na) ii-ina (a) | innaa -> inner (inner == underwear)"
   },
   {
     "Date": "Nov 20",
     "Name": "Nice Thighs Day",
     "Hashtag": "#いい太ももの日",
-    "Explanation": "11 2 0 ii-fu-ta, (2 10 = 20) | futa(momo) = thighs",
+    "Explanation": "1(i)1(i) 2(fu) 10(ta) 20 = 2 10 ii-futa(momo) | futa(momo) = thighs",
     "ExampleLink": "https://bsky.app/profile/zoiteki.bsky.social/post/3lbeoln75hs2n",
     "ExamplePicture": "https://cdn.bsky.app/img/feed_fullsize/plain/did:plc:arc2kmirqj5fje4xaeytoqxj/bafkreidwghphacybgejfsnnjmje7ksrzzl22qyghdzdxcxjdkl6x36oin4@jpeg"
   },
@@ -191,7 +203,7 @@
     "Date": "Nov 22",
     "Name": "Nice Twintail Day",
     "Hashtag": "#いいツインテールの日",
-    "Explanation": "Just because it's 22?? (tūtū)",
+    "Explanation": "Not sure. Just because it's 22?? (tūtū)",
     "ExampleLink": "https://twitter.com/zoiteki/status/1922462904114176157",
     "ExamplePicture": "https://pbs.twimg.com/media/Gq30Z03XsAA2mhA?format=jpg&name=4096x4096"
   },
@@ -199,13 +211,13 @@
     "Date": "Nov 23",
     "Name": "Nice Breasts Day",
     "Hashtag": "#いい乳房の日",
-    "Explanation": "乳房 => ちぶさ breast/nipple idk why it's 23 though"
+    "Explanation": "1(i) 1(i) 2(bu) 3(sa) ii-(chi)busa| 乳房 => ちぶさ => chibusa => breast"
   },
   {
     "Date": "Nov 26",
     "Name": "Nice Bloomers Day",
     "Hashtag": "#いいブルマの日",
-    "Explanation": "girl idk"
+    "Explanation": "1(i) 1(i) 2(bu) 6(ru) 3(ma) ii-bu-ru-ma | Bloomer = buruma = ブルマ"
   },
   {
     "Date": "Nov 28",
@@ -217,18 +229,18 @@
     "Date": "Nov 29",
     "Name": "Nice School Swimsuit Day",
     "Hashtag": "#いいスク水の日",
-    "Explanation": "スク水 = sukumizu (school swimsuit) tsukyu (29) kinda sounds like suku"
+    "Explanation": "1(i) 1(i) 29(suku) ii-suku(mizu) | スク水 = sukumizu (school swimsuit) tsukyu (29) kinda sounds like suku"
   },
   {
     "Date": "Nov 29",
     "Name": "Nice Meat Day",
     "Hashtag": "#いい肉の日",
-    "Explanation": "11 2 9 ii-ni-ku, niku = meat. Usually refers to beef, but artists will post cowgirls (e.g. cow bikini), or very curvy women in general. Butts, Boobs, Thighs."
+    "Explanation": "1(i)1(i) 2(ni) 9(ku) ii-ni-ku, niku = meat. Usually refers to beef, but artists will post cowgirls (e.g. cow bikini), or very curvy women in general. Butts, Boobs, Thighs."
   },
   {
     "Date": "Nov 30",
     "Name": "Nice Butt Day",
     "Hashtag": "#いいお尻の日",
-    "Explanation": "shiri = butt, guess here is that shiri kinda sounds like thirty?"
+    "Explanation": "idk: 1(i) 1(i) 30 | お尻 (oshiri) oshiri = butt, guess here is that shiri sounds like thirty?"
   }
 ]
